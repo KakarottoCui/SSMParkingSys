@@ -3,7 +3,7 @@
 
 演示视频链接：https://www.bilibili.com/video/BV1AF41137D5/
 
-详询 微信1：egvh56ufy7hh ，微信2：A15192572135 ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
 
 这是一个SSM+Redis的停车场管理系统。
 
